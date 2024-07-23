@@ -1,0 +1,11 @@
+feature,importance
+data_exposed,0.13893160361266496
+financial_impact,0.1341318227877001
+detection_time_hours,0.12783482519328676
+resolution_time_hours,0.12729226768842566
+system_downtime_hours,0.108748814782627
+employee_awareness_score,0.08025484076423174
+affected_systems,0.075919087290581
+incident_type,0.057408027470174545
+severity,0.046986276848316445
+patch_status,0.03813192988722345

@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1-Score
+Weighted Scoring,0.47,N/A,N/A,N/A
+Logistic Regression,0.435,0.438125,0.435,0.4296731615336267
+Random Forest,0.53,0.533909668313338,0.53,0.5293417366946778
